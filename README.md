@@ -9,7 +9,7 @@ This project analyses youth opinions on H&M, subsequently forming 3 problem area
 
 # Project Highlights
 
-1. <img width="1500" alt="image" src="https://user-images.githubusercontent.com/129648107/229365949-e82dc890-9025-4d25-b1d9-7f30be4d3c0f.png">
+1. <img width="2000" alt="image" src="https://user-images.githubusercontent.com/129648107/229365949-e82dc890-9025-4d25-b1d9-7f30be4d3c0f.png">
 - Slicers improve interactivity and allowed users to view and compare performance by year for each H&M brand
 - Sparklines provide a comprehensive overview of yearly sales for each H&M brand
 - Data Validation allows users to filter data on the map to view yearly sales for major countries
