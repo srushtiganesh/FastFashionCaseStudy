@@ -1,5 +1,5 @@
 # Fast Fashion Case Study
-This project analyses youth opinions on H&M, subsequently forming 3 problem areas and solutions to tackle these problems.
+ [This Project](https://github.com/katiehuangx/Maven-Unicorn-Challenge) analyses youth opinions on H&M, subsequently forming 3 problem areas and solutions to tackle these problems.
 
 
 # Walkthrough
